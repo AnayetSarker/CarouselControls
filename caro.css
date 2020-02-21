@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700&display=swap');
+body{
+    background: indianred;
+}
+#quotes{
+  text-align: center;
+  margin-top: 130px;
+}
+
+h1{
+  font-family: 'Montserrat',sans-serif;
+  color: #fff;
+}
+.poet{
+  color: #fff;
+  padding: 5px;
+  font-weight: bold;
+  font-size: 22px;
+}
+.size{
+height: 170px;
+width: 260px;
+padding: 5px;
+}
+
+.carousel-item{
+  padding: 5% 10%;
+}
